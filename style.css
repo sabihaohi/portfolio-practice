@@ -17,28 +17,23 @@ body{
   font-size: 20px;
   padding: 20px;
 }
-.container{
-    display: flex;
-    
-}
 .image{
     padding: 20px;
     margin: 20px;
     text-align: justify;
-    list-style-type: none;
-    width:60%;
+    width:50%;
 }
 p{ 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: larger;
 }
 .story{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
 .ohi{
     text-align: center;
-    width:40%;
+    width:50%;
     padding:10px;
     margin: 10px;
     
@@ -46,6 +41,7 @@ p{
 }
 img{
     border-radius: 50%;
+
 }
 .hire{
     text-decoration: none;
@@ -58,4 +54,14 @@ img{
     font-weight: 700;
 
 }
-
+.nextpart{
+    display: flex;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
